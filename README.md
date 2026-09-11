@@ -1,7 +1,7 @@
 # Hi, I'm Uplakshya Vishwakarma
 
-Computer Science graduate | GATE CSE Qualified (AIR 2180 and AIR 1157)  
-Backend-focused developer with strong CS fundamentals and hands-on full stack experience.
+Computer Science graduate | Doing M.Tech in CSE-AI specialization at IIT BHU (Varanasi)
+Backend-focused developer with strong CS fundamentals and hands-on full-stack experience.
 
 ---
 
